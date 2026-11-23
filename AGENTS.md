@@ -7,13 +7,13 @@ Use the following repository-local Git identity for both authorship and committi
 | Setting      | Value                |
 |--------------|----------------------|
 | `user.name`  | `pi agent`           |
-| `user.email` | `naisanza@gmail.com` |
+| `user.email` | `atomicgoofball@gmail.com` |
 
 Before creating commits, verify these settings and configure them locally if needed:
 
 ```bash
 git config --local user.name 'pi agent'
-git config --local user.email 'naisanza@gmail.com'
+git config --local user.email 'atomicgoofball@gmail.com'
 ```
 
 # Procedural Integrity for skills
